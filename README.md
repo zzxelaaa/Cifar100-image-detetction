@@ -1,1 +1,1 @@
-# Cifar100-image-detetction
+# Cifar100-image-detection
